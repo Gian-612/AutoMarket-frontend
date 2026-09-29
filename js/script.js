@@ -10,9 +10,8 @@
    CONFIGURACIÓN DE LA API
 ===================================================== */
 
-// Mientras desarrollas en tu máquina, deja esta URL.
-// Cuando despliegues el backend en Render, cámbiala por
-// la URL pública, ej: "https://automarket-api.onrender.com/api"
+
+// "https://automarket-api.onrender.com/api"
 const API_BASE = "https://automarket-7hx1.onrender.com/api";
 
 // Guardamos en memoria la última lista de vehículos que
